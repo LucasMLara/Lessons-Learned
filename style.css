@@ -1,0 +1,94 @@
+body {
+  background-color: rgb(253, 251, 251);
+  margin: 0;
+  font-family: Akaya Kanadaka, cursive;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+#cabecalho {
+  margin-top: 0;
+  position: fixed;
+  background-color: black;
+  width: 100%;
+  color: white;
+  margin-bottom: 10;
+  height: 200px;
+}
+
+#logoTrybe {
+  width: 180px;
+  float: right;
+  margin: 25px;
+
+}
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+}
+
+table {
+  margin: 20px;
+  border: 10px;
+  padding: 5px;
+}
+
+td {
+  padding: 10px;
+  border: solid 1px black;
+  background-color: antiquewhite;
+}
+
+ul {
+  margin-bottom: 50px;
+
+}
+
+.linksheader li {
+  display: inline;
+  margin-left: 20px;
+
+}
+
+a {
+  color: gray;
+  font-size: 30px;
+  padding: 20px;
+
+}
+
+a:visited {
+  color: gray;
+}
+
+.fotoSection {
+  text-align: center;
+}
+
+#minha_foto {
+  margin-top: 300px;
+  border-radius: 25%;
+  background-color: gray;
+  padding: 15px;
+  width: 500px;
+}
+
+.container {
+  display: flex;
+}
+
+.urlex {
+  border: 5px solid black;
+}
+
+#rodape {
+  text-align: center;
+  background-color: black;
+  margin-top: 20px;
+  color: azure;
+}
+
+.artigo {
+  margin: 10px;
+}
